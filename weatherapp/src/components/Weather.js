@@ -39,7 +39,7 @@ const Weather = () => {
     getWeatherInfo();
   }, []);
   return (
-    <div className='my-3 grid'>
+    <div className=' grid bg-gray-100'>
         <div className="wrap">
         <div className="search">
           <input
